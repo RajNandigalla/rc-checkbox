@@ -22,8 +22,10 @@
   "typings": "es/index.d.ts",
   "files": [
     "assets/*.css",
+    "assets/*.less",
     "es",
-    "lib"
+    "lib",
+    "src"
   ],
   "scripts": {
     "build": "dumi build",
